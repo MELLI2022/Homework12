@@ -29,5 +29,6 @@ public class Main {
         Author ivanov = new Author("Иван", "Иванов");
         System.out.println("ivanov.firstName = " + ivanov.getfirstName());
         System.out.println("ivanov.lastName = " + ivanov.getlastName());
+        System.out.println();
     }
 }
